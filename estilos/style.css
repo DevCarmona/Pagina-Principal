@@ -1,0 +1,47 @@
+body{
+    background-image: url(../imagens/walpaper.jpg);
+    font-family: Verdana, monospace;
+    color: white;
+    max-width: 900px;
+    margin: auto;
+}
+
+.foto{
+    border-radius: 50px;
+    border: 1px solid rgb(51, 51, 51);
+}
+
+.subtitulo{
+    padding-left: 20px;
+}
+
+.post{
+    background: rgb(196, 255, 228);
+    color: black;
+    width: max-content;
+    height: max-content;
+    padding: 10px;
+    padding-bottom: 0;
+    padding-top: 0;
+    border: 3px solid rgb(30, 104, 85);
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.titulo_post{
+    text-align: center;
+}
+
+.lista_curso{
+    list-style: none;
+}
+
+.lista_curso a{
+    color: blue;
+    text-decoration: none;
+}
+
+.lista_curso p{
+    color: rgb(136, 36, 36);
+    font-weight: bold;
+}
